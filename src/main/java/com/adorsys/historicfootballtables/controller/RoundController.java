@@ -1,5 +1,7 @@
-package com.adorsys.historicfootballtables.round;
+package com.adorsys.historicfootballtables.controller;
 
+import com.adorsys.historicfootballtables.model.Round;
+import com.adorsys.historicfootballtables.service.RoundService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

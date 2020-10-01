@@ -1,5 +1,6 @@
-package com.adorsys.historicfootballtables.match;
+package com.adorsys.historicfootballtables.dao;
 
+import com.adorsys.historicfootballtables.model.Match;
 import org.springframework.data.repository.CrudRepository;
 
 import java.util.List;

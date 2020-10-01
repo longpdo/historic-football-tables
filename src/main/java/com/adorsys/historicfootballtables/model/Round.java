@@ -1,7 +1,5 @@
-package com.adorsys.historicfootballtables.round;
+package com.adorsys.historicfootballtables.model;
 
-import com.adorsys.historicfootballtables.match.Match;
-import com.adorsys.historicfootballtables.season.Season;
 import lombok.*;
 
 import javax.persistence.*;

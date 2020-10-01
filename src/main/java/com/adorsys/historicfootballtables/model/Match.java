@@ -1,6 +1,5 @@
-package com.adorsys.historicfootballtables.match;
+package com.adorsys.historicfootballtables.model;
 
-import com.adorsys.historicfootballtables.round.Round;
 import lombok.*;
 
 import javax.persistence.*;

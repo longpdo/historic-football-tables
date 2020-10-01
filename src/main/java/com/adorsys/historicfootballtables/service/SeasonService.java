@@ -1,8 +1,10 @@
-package com.adorsys.historicfootballtables.season;
+package com.adorsys.historicfootballtables.service;
 
-import com.adorsys.historicfootballtables.match.Match;
-import com.adorsys.historicfootballtables.pojo.LeagueTableRow;
-import com.adorsys.historicfootballtables.round.Round;
+import com.adorsys.historicfootballtables.model.Match;
+import com.adorsys.historicfootballtables.model.LeagueTableRow;
+import com.adorsys.historicfootballtables.model.Round;
+import com.adorsys.historicfootballtables.model.Season;
+import com.adorsys.historicfootballtables.dao.SeasonRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

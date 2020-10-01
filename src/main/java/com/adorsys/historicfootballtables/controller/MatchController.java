@@ -1,5 +1,7 @@
-package com.adorsys.historicfootballtables.match;
+package com.adorsys.historicfootballtables.controller;
 
+import com.adorsys.historicfootballtables.service.MatchService;
+import com.adorsys.historicfootballtables.model.Match;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

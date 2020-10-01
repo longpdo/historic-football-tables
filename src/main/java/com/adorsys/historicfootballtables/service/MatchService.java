@@ -1,5 +1,7 @@
-package com.adorsys.historicfootballtables.match;
+package com.adorsys.historicfootballtables.service;
 
+import com.adorsys.historicfootballtables.dao.MatchRepository;
+import com.adorsys.historicfootballtables.model.Match;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

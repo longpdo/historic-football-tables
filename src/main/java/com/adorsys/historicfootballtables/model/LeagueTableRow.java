@@ -1,4 +1,4 @@
-package com.adorsys.historicfootballtables.pojo;
+package com.adorsys.historicfootballtables.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
