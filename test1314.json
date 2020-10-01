@@ -1,0 +1,2014 @@
+{
+  "country": "Germany",
+  "name": "Bundesliga",
+  "leagueRank": "1",
+  "season": "1314",
+  "rounds": [
+    {
+      "number": "1",
+      "matches": [
+        {
+          "date": "2013-08-09",
+          "homeTeam": "Bayern München",
+          "awayTeam": "Bor. Mönchengladbach",
+          "score": "3:1"
+        },
+        {
+          "date": "2013-08-10",
+          "homeTeam": "TSG 1899 Hoffenheim",
+          "awayTeam": "1. FC Nürnberg",
+          "score": "2:2"
+        },
+        {
+          "date": "2013-08-10",
+          "homeTeam": "Bayer 04 Leverkusen",
+          "awayTeam": "SC Freiburg",
+          "score": "3:1"
+        },
+        {
+          "date": "2013-08-10",
+          "homeTeam": "FC Augsburg",
+          "awayTeam": "Borussia Dortmund",
+          "score": "0:4"
+        },
+        {
+          "date": "2013-08-10",
+          "homeTeam": "Eintracht Braunschweig",
+          "awayTeam": "Werder Bremen",
+          "score": "0:1"
+        },
+        {
+          "date": "2013-08-10",
+          "homeTeam": "Hertha BSC",
+          "awayTeam": "Eintracht Frankfurt",
+          "score": "6:1"
+        },
+        {
+          "date": "2013-08-10",
+          "homeTeam": "Hannover 96",
+          "awayTeam": "VfL Wolfsburg",
+          "score": "2:0"
+        },
+        {
+          "date": "2013-08-11",
+          "homeTeam": "1. FSV Mainz 05",
+          "awayTeam": "VfB Stuttgart",
+          "score": "3:2"
+        },
+        {
+          "date": "2013-08-11",
+          "homeTeam": "FC Schalke 04",
+          "awayTeam": "Hamburger SV",
+          "score": "3:3"
+        }
+      ]
+    },
+    {
+      "number": "2",
+      "matches": [
+        {
+          "date": "2013-08-17",
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "Bayer 04 Leverkusen",
+          "score": "0:1"
+        },
+        {
+          "date": "2013-08-17",
+          "homeTeam": "Eintracht Frankfurt",
+          "awayTeam": "Bayern München",
+          "score": "0:1"
+        },
+        {
+          "date": "2013-08-17",
+          "homeTeam": "VfL Wolfsburg",
+          "awayTeam": "FC Schalke 04",
+          "score": "4:0"
+        },
+        {
+          "date": "2013-08-17",
+          "homeTeam": "Werder Bremen",
+          "awayTeam": "FC Augsburg",
+          "score": "1:0"
+        },
+        {
+          "date": "2013-08-17",
+          "homeTeam": "Bor. Mönchengladbach",
+          "awayTeam": "Hannover 96",
+          "score": "3:0"
+        },
+        {
+          "date": "2013-08-17",
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "TSG 1899 Hoffenheim",
+          "score": "1:5"
+        },
+        {
+          "date": "2013-08-17",
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "1. FSV Mainz 05",
+          "score": "1:2"
+        },
+        {
+          "date": "2013-08-18",
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "Eintracht Braunschweig",
+          "score": "2:1"
+        },
+        {
+          "date": "2013-08-18",
+          "homeTeam": "1. FC Nürnberg",
+          "awayTeam": "Hertha BSC",
+          "score": "2:2"
+        }
+      ]
+    },
+    {
+      "number": "3",
+      "matches": [
+        {
+          "date": "2013-08-23",
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "Werder Bremen",
+          "score": "1:0"
+        },
+        {
+          "date": "2013-08-24",
+          "homeTeam": "Bayer 04 Leverkusen",
+          "awayTeam": "Bor. Mönchengladbach",
+          "score": "4:2"
+        },
+        {
+          "date": "2013-08-24",
+          "homeTeam": "TSG 1899 Hoffenheim",
+          "awayTeam": "SC Freiburg",
+          "score": "3:3"
+        },
+        {
+          "date": "2013-08-24",
+          "homeTeam": "Bayern München",
+          "awayTeam": "1. FC Nürnberg",
+          "score": "2:0"
+        },
+        {
+          "date": "2013-08-24",
+          "homeTeam": "1. FSV Mainz 05",
+          "awayTeam": "VfL Wolfsburg",
+          "score": "2:0"
+        },
+        {
+          "date": "2013-08-24",
+          "homeTeam": "Hertha BSC",
+          "awayTeam": "Hamburger SV",
+          "score": "1:0"
+        },
+        {
+          "date": "2013-08-24",
+          "homeTeam": "Hannover 96",
+          "awayTeam": "FC Schalke 04",
+          "score": "2:1"
+        },
+        {
+          "date": "2013-08-25",
+          "homeTeam": "Eintracht Braunschweig",
+          "awayTeam": "Eintracht Frankfurt",
+          "score": "0:2"
+        },
+        {
+          "date": "2013-08-25",
+          "homeTeam": "FC Augsburg",
+          "awayTeam": "VfB Stuttgart",
+          "score": "2:1"
+        }
+      ]
+    },
+    {
+      "number": "4",
+      "matches": [
+        {
+          "date": "2013-08-27",
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "Bayern München",
+          "score": "1:1"
+        },
+        {
+          "date": "2013-08-31",
+          "homeTeam": "FC Schalke 04",
+          "awayTeam": "Bayer 04 Leverkusen",
+          "score": "2:0"
+        },
+        {
+          "date": "2013-08-31",
+          "homeTeam": "1. FC Nürnberg",
+          "awayTeam": "FC Augsburg",
+          "score": "0:1"
+        },
+        {
+          "date": "2013-08-31",
+          "homeTeam": "Hannover 96",
+          "awayTeam": "1. FSV Mainz 05",
+          "score": "4:1"
+        },
+        {
+          "date": "2013-08-31",
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "Eintracht Braunschweig",
+          "score": "4:0"
+        },
+        {
+          "date": "2013-08-31",
+          "homeTeam": "VfL Wolfsburg",
+          "awayTeam": "Hertha BSC",
+          "score": "2:0"
+        },
+        {
+          "date": "2013-08-31",
+          "homeTeam": "Bor. Mönchengladbach",
+          "awayTeam": "Werder Bremen",
+          "score": "4:1"
+        },
+        {
+          "date": "2013-09-01",
+          "homeTeam": "Eintracht Frankfurt",
+          "awayTeam": "Borussia Dortmund",
+          "score": "1:2"
+        },
+        {
+          "date": "2013-09-01",
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "TSG 1899 Hoffenheim",
+          "score": "6:2"
+        }
+      ]
+    },
+    {
+      "number": "5",
+      "matches": [
+        {
+          "date": "2013-09-13",
+          "homeTeam": "Hertha BSC",
+          "awayTeam": "VfB Stuttgart",
+          "score": "0:1"
+        },
+        {
+          "date": "2013-09-14",
+          "homeTeam": "Bayer 04 Leverkusen",
+          "awayTeam": "VfL Wolfsburg",
+          "score": "3:1"
+        },
+        {
+          "date": "2013-09-14",
+          "homeTeam": "1. FSV Mainz 05",
+          "awayTeam": "FC Schalke 04",
+          "score": "0:1"
+        },
+        {
+          "date": "2013-09-14",
+          "homeTeam": "Bayern München",
+          "awayTeam": "Hannover 96",
+          "score": "2:0"
+        },
+        {
+          "date": "2013-09-14",
+          "homeTeam": "FC Augsburg",
+          "awayTeam": "SC Freiburg",
+          "score": "2:1"
+        },
+        {
+          "date": "2013-09-14",
+          "homeTeam": "Werder Bremen",
+          "awayTeam": "Eintracht Frankfurt",
+          "score": "0:3"
+        },
+        {
+          "date": "2013-09-14",
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "Hamburger SV",
+          "score": "6:2"
+        },
+        {
+          "date": "2013-09-15",
+          "homeTeam": "TSG 1899 Hoffenheim",
+          "awayTeam": "Bor. Mönchengladbach",
+          "score": "2:1"
+        },
+        {
+          "date": "2013-09-15",
+          "homeTeam": "Eintracht Braunschweig",
+          "awayTeam": "1. FC Nürnberg",
+          "score": "1:1"
+        }
+      ]
+    },
+    {
+      "number": "6",
+      "matches": [
+        {
+          "date": "2013-09-20",
+          "homeTeam": "Bor. Mönchengladbach",
+          "awayTeam": "Eintracht Braunschweig",
+          "score": "4:1"
+        },
+        {
+          "date": "2013-09-21",
+          "homeTeam": "FC Schalke 04",
+          "awayTeam": "Bayern München",
+          "score": "0:4"
+        },
+        {
+          "date": "2013-09-21",
+          "homeTeam": "Hannover 96",
+          "awayTeam": "FC Augsburg",
+          "score": "2:1"
+        },
+        {
+          "date": "2013-09-21",
+          "homeTeam": "1. FSV Mainz 05",
+          "awayTeam": "Bayer 04 Leverkusen",
+          "score": "1:4"
+        },
+        {
+          "date": "2013-09-21",
+          "homeTeam": "1. FC Nürnberg",
+          "awayTeam": "Borussia Dortmund",
+          "score": "1:1"
+        },
+        {
+          "date": "2013-09-21",
+          "homeTeam": "VfL Wolfsburg",
+          "awayTeam": "TSG 1899 Hoffenheim",
+          "score": "2:1"
+        },
+        {
+          "date": "2013-09-21",
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "Werder Bremen",
+          "score": "0:2"
+        },
+        {
+          "date": "2013-09-22",
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "Eintracht Frankfurt",
+          "score": "1:1"
+        },
+        {
+          "date": "2013-09-22",
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "Hertha BSC",
+          "score": "1:1"
+        }
+      ]
+    },
+    {
+      "number": "7",
+      "matches": [
+        {
+          "date": "2013-09-27",
+          "homeTeam": "FC Augsburg",
+          "awayTeam": "Bor. Mönchengladbach",
+          "score": "2:2"
+        },
+        {
+          "date": "2013-09-28",
+          "homeTeam": "Hertha BSC",
+          "awayTeam": "1. FSV Mainz 05",
+          "score": "3:1"
+        },
+        {
+          "date": "2013-09-28",
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "SC Freiburg",
+          "score": "5:0"
+        },
+        {
+          "date": "2013-09-28",
+          "homeTeam": "Bayer 04 Leverkusen",
+          "awayTeam": "Hannover 96",
+          "score": "2:0"
+        },
+        {
+          "date": "2013-09-28",
+          "homeTeam": "Eintracht Frankfurt",
+          "awayTeam": "Hamburger SV",
+          "score": "2:2"
+        },
+        {
+          "date": "2013-09-28",
+          "homeTeam": "TSG 1899 Hoffenheim",
+          "awayTeam": "FC Schalke 04",
+          "score": "3:3"
+        },
+        {
+          "date": "2013-09-28",
+          "homeTeam": "Bayern München",
+          "awayTeam": "VfL Wolfsburg",
+          "score": "1:0"
+        },
+        {
+          "date": "2013-09-29",
+          "homeTeam": "Eintracht Braunschweig",
+          "awayTeam": "VfB Stuttgart",
+          "score": "0:4"
+        },
+        {
+          "date": "2013-09-29",
+          "homeTeam": "Werder Bremen",
+          "awayTeam": "1. FC Nürnberg",
+          "score": "3:3"
+        }
+      ]
+    },
+    {
+      "number": "8",
+      "matches": [
+        {
+          "date": "2013-10-04",
+          "homeTeam": "Hannover 96",
+          "awayTeam": "Hertha BSC",
+          "score": "1:1"
+        },
+        {
+          "date": "2013-10-05",
+          "homeTeam": "FC Schalke 04",
+          "awayTeam": "FC Augsburg",
+          "score": "4:1"
+        },
+        {
+          "date": "2013-10-05",
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "Werder Bremen",
+          "score": "1:1"
+        },
+        {
+          "date": "2013-10-05",
+          "homeTeam": "VfL Wolfsburg",
+          "awayTeam": "Eintracht Braunschweig",
+          "score": "0:2"
+        },
+        {
+          "date": "2013-10-05",
+          "homeTeam": "Bor. Mönchengladbach",
+          "awayTeam": "Borussia Dortmund",
+          "score": "2:0"
+        },
+        {
+          "date": "2013-10-05",
+          "homeTeam": "Bayer 04 Leverkusen",
+          "awayTeam": "Bayern München",
+          "score": "1:1"
+        },
+        {
+          "date": "2013-10-05",
+          "homeTeam": "1. FSV Mainz 05",
+          "awayTeam": "TSG 1899 Hoffenheim",
+          "score": "2:2"
+        },
+        {
+          "date": "2013-10-06",
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "Eintracht Frankfurt",
+          "score": "1:1"
+        },
+        {
+          "date": "2013-10-06",
+          "homeTeam": "1. FC Nürnberg",
+          "awayTeam": "Hamburger SV",
+          "score": "0:5"
+        }
+      ]
+    },
+    {
+      "number": "9",
+      "matches": [
+        {
+          "date": "2013-10-18",
+          "homeTeam": "TSG 1899 Hoffenheim",
+          "awayTeam": "Bayer 04 Leverkusen",
+          "score": "1:2"
+        },
+        {
+          "date": "2013-10-19",
+          "homeTeam": "Bayern München",
+          "awayTeam": "1. FSV Mainz 05",
+          "score": "4:1"
+        },
+        {
+          "date": "2013-10-19",
+          "homeTeam": "Eintracht Frankfurt",
+          "awayTeam": "1. FC Nürnberg",
+          "score": "1:1"
+        },
+        {
+          "date": "2013-10-19",
+          "homeTeam": "Hertha BSC",
+          "awayTeam": "Bor. Mönchengladbach",
+          "score": "1:0"
+        },
+        {
+          "date": "2013-10-19",
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "Hannover 96",
+          "score": "1:0"
+        },
+        {
+          "date": "2013-10-19",
+          "homeTeam": "Werder Bremen",
+          "awayTeam": "SC Freiburg",
+          "score": "0:0"
+        },
+        {
+          "date": "2013-10-19",
+          "homeTeam": "Eintracht Braunschweig",
+          "awayTeam": "FC Schalke 04",
+          "score": "2:3"
+        },
+        {
+          "date": "2013-10-20",
+          "homeTeam": "FC Augsburg",
+          "awayTeam": "VfL Wolfsburg",
+          "score": "1:2"
+        },
+        {
+          "date": "2013-10-20",
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "VfB Stuttgart",
+          "score": "3:3"
+        }
+      ]
+    },
+    {
+      "number": "10",
+      "matches": [
+        {
+          "date": "2013-10-25",
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "1. FC Nürnberg",
+          "score": "1:1"
+        },
+        {
+          "date": "2013-10-26",
+          "homeTeam": "1. FSV Mainz 05",
+          "awayTeam": "Eintracht Braunschweig",
+          "score": "2:0"
+        },
+        {
+          "date": "2013-10-26",
+          "homeTeam": "Bayer 04 Leverkusen",
+          "awayTeam": "FC Augsburg",
+          "score": "2:1"
+        },
+        {
+          "date": "2013-10-26",
+          "homeTeam": "Bayern München",
+          "awayTeam": "Hertha BSC",
+          "score": "3:2"
+        },
+        {
+          "date": "2013-10-26",
+          "homeTeam": "VfL Wolfsburg",
+          "awayTeam": "Werder Bremen",
+          "score": "3:0"
+        },
+        {
+          "date": "2013-10-26",
+          "homeTeam": "FC Schalke 04",
+          "awayTeam": "Borussia Dortmund",
+          "score": "1:3"
+        },
+        {
+          "date": "2013-10-26",
+          "homeTeam": "Hannover 96",
+          "awayTeam": "TSG 1899 Hoffenheim",
+          "score": "1:4"
+        },
+        {
+          "date": "2013-10-27",
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "Hamburger SV",
+          "score": "0:3"
+        },
+        {
+          "date": "2013-10-27",
+          "homeTeam": "Bor. Mönchengladbach",
+          "awayTeam": "Eintracht Frankfurt",
+          "score": "4:1"
+        }
+      ]
+    },
+    {
+      "number": "11",
+      "matches": [
+        {
+          "date": "2013-11-01",
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "VfB Stuttgart",
+          "score": "6:1"
+        },
+        {
+          "date": "2013-11-02",
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "Bor. Mönchengladbach",
+          "score": "0:2"
+        },
+        {
+          "date": "2013-11-02",
+          "homeTeam": "1. FC Nürnberg",
+          "awayTeam": "SC Freiburg",
+          "score": "0:3"
+        },
+        {
+          "date": "2013-11-02",
+          "homeTeam": "Eintracht Frankfurt",
+          "awayTeam": "VfL Wolfsburg",
+          "score": "1:2"
+        },
+        {
+          "date": "2013-11-02",
+          "homeTeam": "Hertha BSC",
+          "awayTeam": "FC Schalke 04",
+          "score": "0:2"
+        },
+        {
+          "date": "2013-11-02",
+          "homeTeam": "TSG 1899 Hoffenheim",
+          "awayTeam": "Bayern München",
+          "score": "1:2"
+        },
+        {
+          "date": "2013-11-02",
+          "homeTeam": "Eintracht Braunschweig",
+          "awayTeam": "Bayer 04 Leverkusen",
+          "score": "1:0"
+        },
+        {
+          "date": "2013-11-03",
+          "homeTeam": "FC Augsburg",
+          "awayTeam": "1. FSV Mainz 05",
+          "score": "2:1"
+        },
+        {
+          "date": "2013-11-03",
+          "homeTeam": "Werder Bremen",
+          "awayTeam": "Hannover 96",
+          "score": "3:2"
+        }
+      ]
+    },
+    {
+      "number": "12",
+      "matches": [
+        {
+          "date": "2013-11-08",
+          "homeTeam": "Hannover 96",
+          "awayTeam": "Eintracht Braunschweig",
+          "score": "0:0"
+        },
+        {
+          "date": "2013-11-09",
+          "homeTeam": "TSG 1899 Hoffenheim",
+          "awayTeam": "Hertha BSC",
+          "score": "2:3"
+        },
+        {
+          "date": "2013-11-09",
+          "homeTeam": "Bayern München",
+          "awayTeam": "FC Augsburg",
+          "score": "3:0"
+        },
+        {
+          "date": "2013-11-09",
+          "homeTeam": "Bayer 04 Leverkusen",
+          "awayTeam": "Hamburger SV",
+          "score": "5:3"
+        },
+        {
+          "date": "2013-11-09",
+          "homeTeam": "Bor. Mönchengladbach",
+          "awayTeam": "1. FC Nürnberg",
+          "score": "3:1"
+        },
+        {
+          "date": "2013-11-09",
+          "homeTeam": "FC Schalke 04",
+          "awayTeam": "Werder Bremen",
+          "score": "3:1"
+        },
+        {
+          "date": "2013-11-09",
+          "homeTeam": "VfL Wolfsburg",
+          "awayTeam": "Borussia Dortmund",
+          "score": "2:1"
+        },
+        {
+          "date": "2013-11-10",
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "VfB Stuttgart",
+          "score": "1:3"
+        },
+        {
+          "date": "2013-11-10",
+          "homeTeam": "1. FSV Mainz 05",
+          "awayTeam": "Eintracht Frankfurt",
+          "score": "1:0"
+        }
+      ]
+    },
+    {
+      "number": "13",
+      "matches": [
+        {
+          "date": "2013-11-22",
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "Bor. Mönchengladbach",
+          "score": "0:2"
+        },
+        {
+          "date": "2013-11-23",
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "Bayern München",
+          "score": "0:3"
+        },
+        {
+          "date": "2013-11-23",
+          "homeTeam": "Eintracht Frankfurt",
+          "awayTeam": "FC Schalke 04",
+          "score": "3:3"
+        },
+        {
+          "date": "2013-11-23",
+          "homeTeam": "Eintracht Braunschweig",
+          "awayTeam": "SC Freiburg",
+          "score": "0:1"
+        },
+        {
+          "date": "2013-11-23",
+          "homeTeam": "1. FC Nürnberg",
+          "awayTeam": "VfL Wolfsburg",
+          "score": "1:1"
+        },
+        {
+          "date": "2013-11-23",
+          "homeTeam": "FC Augsburg",
+          "awayTeam": "TSG 1899 Hoffenheim",
+          "score": "2:0"
+        },
+        {
+          "date": "2013-11-23",
+          "homeTeam": "Hertha BSC",
+          "awayTeam": "Bayer 04 Leverkusen",
+          "score": "0:1"
+        },
+        {
+          "date": "2013-11-24",
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "Hannover 96",
+          "score": "3:1"
+        },
+        {
+          "date": "2013-11-24",
+          "homeTeam": "Werder Bremen",
+          "awayTeam": "1. FSV Mainz 05",
+          "score": "2:3"
+        }
+      ]
+    },
+    {
+      "number": "14",
+      "matches": [
+        {
+          "date": "2013-11-29",
+          "homeTeam": "VfL Wolfsburg",
+          "awayTeam": "Hamburger SV",
+          "score": "1:1"
+        },
+        {
+          "date": "2013-11-30",
+          "homeTeam": "TSG 1899 Hoffenheim",
+          "awayTeam": "Werder Bremen",
+          "score": "4:4"
+        },
+        {
+          "date": "2013-11-30",
+          "homeTeam": "1. FSV Mainz 05",
+          "awayTeam": "Borussia Dortmund",
+          "score": "1:3"
+        },
+        {
+          "date": "2013-11-30",
+          "homeTeam": "Hertha BSC",
+          "awayTeam": "FC Augsburg",
+          "score": "0:0"
+        },
+        {
+          "date": "2013-11-30",
+          "homeTeam": "Bayer 04 Leverkusen",
+          "awayTeam": "1. FC Nürnberg",
+          "score": "3:0"
+        },
+        {
+          "date": "2013-11-30",
+          "homeTeam": "FC Schalke 04",
+          "awayTeam": "VfB Stuttgart",
+          "score": "3:0"
+        },
+        {
+          "date": "2013-11-30",
+          "homeTeam": "Bayern München",
+          "awayTeam": "Eintracht Braunschweig",
+          "score": "2:0"
+        },
+        {
+          "date": "2013-12-01",
+          "homeTeam": "Bor. Mönchengladbach",
+          "awayTeam": "SC Freiburg",
+          "score": "1:0"
+        },
+        {
+          "date": "2013-12-01",
+          "homeTeam": "Hannover 96",
+          "awayTeam": "Eintracht Frankfurt",
+          "score": "2:0"
+        }
+      ]
+    },
+    {
+      "number": "15",
+      "matches": [
+        {
+          "date": "2013-12-06",
+          "homeTeam": "1. FC Nürnberg",
+          "awayTeam": "1. FSV Mainz 05",
+          "score": "1:1"
+        },
+        {
+          "date": "2013-12-07",
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "Bayer 04 Leverkusen",
+          "score": "0:1"
+        },
+        {
+          "date": "2013-12-07",
+          "homeTeam": "Werder Bremen",
+          "awayTeam": "Bayern München",
+          "score": "0:7"
+        },
+        {
+          "date": "2013-12-07",
+          "homeTeam": "Bor. Mönchengladbach",
+          "awayTeam": "FC Schalke 04",
+          "score": "2:1"
+        },
+        {
+          "date": "2013-12-07",
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "Hannover 96",
+          "score": "4:2"
+        },
+        {
+          "date": "2013-12-07",
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "FC Augsburg",
+          "score": "0:1"
+        },
+        {
+          "date": "2013-12-07",
+          "homeTeam": "Eintracht Frankfurt",
+          "awayTeam": "TSG 1899 Hoffenheim",
+          "score": "1:2"
+        },
+        {
+          "date": "2013-12-08",
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "VfL Wolfsburg",
+          "score": "0:3"
+        },
+        {
+          "date": "2013-12-08",
+          "homeTeam": "Eintracht Braunschweig",
+          "awayTeam": "Hertha BSC",
+          "score": "0:2"
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "matches": [
+        {
+          "date": "2013-12-13",
+          "homeTeam": "Hertha BSC",
+          "awayTeam": "Werder Bremen",
+          "score": "3:2"
+        },
+        {
+          "date": "2013-12-14",
+          "homeTeam": "FC Augsburg",
+          "awayTeam": "Eintracht Braunschweig",
+          "score": "4:1"
+        },
+        {
+          "date": "2013-12-14",
+          "homeTeam": "1. FSV Mainz 05",
+          "awayTeam": "Bor. Mönchengladbach",
+          "score": "0:0"
+        },
+        {
+          "date": "2013-12-14",
+          "homeTeam": "Hannover 96",
+          "awayTeam": "1. FC Nürnberg",
+          "score": "3:3"
+        },
+        {
+          "date": "2013-12-14",
+          "homeTeam": "VfL Wolfsburg",
+          "awayTeam": "VfB Stuttgart",
+          "score": "3:1"
+        },
+        {
+          "date": "2013-12-14",
+          "homeTeam": "Bayern München",
+          "awayTeam": "Hamburger SV",
+          "score": "3:1"
+        },
+        {
+          "date": "2013-12-14",
+          "homeTeam": "TSG 1899 Hoffenheim",
+          "awayTeam": "Borussia Dortmund",
+          "score": "2:2"
+        },
+        {
+          "date": "2013-12-15",
+          "homeTeam": "FC Schalke 04",
+          "awayTeam": "SC Freiburg",
+          "score": "2:0"
+        },
+        {
+          "date": "2013-12-15",
+          "homeTeam": "Bayer 04 Leverkusen",
+          "awayTeam": "Eintracht Frankfurt",
+          "score": "0:1"
+        }
+      ]
+    },
+    {
+      "number": "17",
+      "matches": [
+        {
+          "date": "2013-12-20",
+          "homeTeam": "Eintracht Frankfurt",
+          "awayTeam": "FC Augsburg",
+          "score": "1:1"
+        },
+        {
+          "date": "2013-12-21",
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "1. FSV Mainz 05",
+          "score": "2:3"
+        },
+        {
+          "date": "2013-12-21",
+          "homeTeam": "Werder Bremen",
+          "awayTeam": "Bayer 04 Leverkusen",
+          "score": "1:0"
+        },
+        {
+          "date": "2013-12-21",
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "Hannover 96",
+          "score": "2:1"
+        },
+        {
+          "date": "2013-12-21",
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "Hertha BSC",
+          "score": "1:2"
+        },
+        {
+          "date": "2013-12-21",
+          "homeTeam": "1. FC Nürnberg",
+          "awayTeam": "FC Schalke 04",
+          "score": "0:0"
+        },
+        {
+          "date": "2013-12-21",
+          "homeTeam": "Eintracht Braunschweig",
+          "awayTeam": "TSG 1899 Hoffenheim",
+          "score": "1:0"
+        },
+        {
+          "date": "2013-12-22",
+          "homeTeam": "Bor. Mönchengladbach",
+          "awayTeam": "VfL Wolfsburg",
+          "score": "2:2"
+        },
+        {
+          "date": "2014-01-29",
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "Bayern München",
+          "score": "1:2"
+        }
+      ]
+    },
+    {
+      "number": "18",
+      "matches": [
+        {
+          "date": "2014-01-24",
+          "homeTeam": "Bor. Mönchengladbach",
+          "awayTeam": "Bayern München",
+          "score": "0:2"
+        },
+        {
+          "date": "2014-01-25",
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "FC Augsburg",
+          "score": "2:2"
+        },
+        {
+          "date": "2014-01-25",
+          "homeTeam": "VfL Wolfsburg",
+          "awayTeam": "Hannover 96",
+          "score": "1:3"
+        },
+        {
+          "date": "2014-01-25",
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "Bayer 04 Leverkusen",
+          "score": "3:2"
+        },
+        {
+          "date": "2014-01-25",
+          "homeTeam": "Eintracht Frankfurt",
+          "awayTeam": "Hertha BSC",
+          "score": "1:0"
+        },
+        {
+          "date": "2014-01-25",
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "1. FSV Mainz 05",
+          "score": "1:2"
+        },
+        {
+          "date": "2014-01-25",
+          "homeTeam": "1. FC Nürnberg",
+          "awayTeam": "TSG 1899 Hoffenheim",
+          "score": "4:0"
+        },
+        {
+          "date": "2014-01-26",
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "FC Schalke 04",
+          "score": "0:3"
+        },
+        {
+          "date": "2014-01-26",
+          "homeTeam": "Werder Bremen",
+          "awayTeam": "Eintracht Braunschweig",
+          "score": "0:0"
+        }
+      ]
+    },
+    {
+      "number": "19",
+      "matches": [
+        {
+          "date": "2014-01-31",
+          "homeTeam": "Eintracht Braunschweig",
+          "awayTeam": "Borussia Dortmund",
+          "score": "1:2"
+        },
+        {
+          "date": "2014-02-01",
+          "homeTeam": "1. FSV Mainz 05",
+          "awayTeam": "SC Freiburg",
+          "score": "2:0"
+        },
+        {
+          "date": "2014-02-01",
+          "homeTeam": "FC Schalke 04",
+          "awayTeam": "VfL Wolfsburg",
+          "score": "2:1"
+        },
+        {
+          "date": "2014-02-01",
+          "homeTeam": "Bayer 04 Leverkusen",
+          "awayTeam": "VfB Stuttgart",
+          "score": "2:1"
+        },
+        {
+          "date": "2014-02-01",
+          "homeTeam": "TSG 1899 Hoffenheim",
+          "awayTeam": "Hamburger SV",
+          "score": "3:0"
+        },
+        {
+          "date": "2014-02-01",
+          "homeTeam": "FC Augsburg",
+          "awayTeam": "Werder Bremen",
+          "score": "3:1"
+        },
+        {
+          "date": "2014-02-01",
+          "homeTeam": "Hannover 96",
+          "awayTeam": "Bor. Mönchengladbach",
+          "score": "3:1"
+        },
+        {
+          "date": "2014-02-02",
+          "homeTeam": "Hertha BSC",
+          "awayTeam": "1. FC Nürnberg",
+          "score": "1:3"
+        },
+        {
+          "date": "2014-02-02",
+          "homeTeam": "Bayern München",
+          "awayTeam": "Eintracht Frankfurt",
+          "score": "5:0"
+        }
+      ]
+    },
+    {
+      "number": "20",
+      "matches": [
+        {
+          "date": "2014-02-07",
+          "homeTeam": "Bor. Mönchengladbach",
+          "awayTeam": "Bayer 04 Leverkusen",
+          "score": "0:1"
+        },
+        {
+          "date": "2014-02-08",
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "Hertha BSC",
+          "score": "0:3"
+        },
+        {
+          "date": "2014-02-08",
+          "homeTeam": "1. FC Nürnberg",
+          "awayTeam": "Bayern München",
+          "score": "0:2"
+        },
+        {
+          "date": "2014-02-08",
+          "homeTeam": "VfL Wolfsburg",
+          "awayTeam": "1. FSV Mainz 05",
+          "score": "3:0"
+        },
+        {
+          "date": "2014-02-08",
+          "homeTeam": "Eintracht Frankfurt",
+          "awayTeam": "Eintracht Braunschweig",
+          "score": "3:0"
+        },
+        {
+          "date": "2014-02-08",
+          "homeTeam": "Werder Bremen",
+          "awayTeam": "Borussia Dortmund",
+          "score": "1:5"
+        },
+        {
+          "date": "2014-02-08",
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "TSG 1899 Hoffenheim",
+          "score": "1:1"
+        },
+        {
+          "date": "2014-02-09",
+          "homeTeam": "FC Schalke 04",
+          "awayTeam": "Hannover 96",
+          "score": "2:0"
+        },
+        {
+          "date": "2014-02-09",
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "FC Augsburg",
+          "score": "1:4"
+        }
+      ]
+    },
+    {
+      "number": "21",
+      "matches": [
+        {
+          "date": "2014-02-14",
+          "homeTeam": "1. FSV Mainz 05",
+          "awayTeam": "Hannover 96",
+          "score": "2:0"
+        },
+        {
+          "date": "2014-02-15",
+          "homeTeam": "TSG 1899 Hoffenheim",
+          "awayTeam": "VfB Stuttgart",
+          "score": "4:1"
+        },
+        {
+          "date": "2014-02-15",
+          "homeTeam": "Werder Bremen",
+          "awayTeam": "Bor. Mönchengladbach",
+          "score": "1:1"
+        },
+        {
+          "date": "2014-02-15",
+          "homeTeam": "Bayern München",
+          "awayTeam": "SC Freiburg",
+          "score": "4:0"
+        },
+        {
+          "date": "2014-02-15",
+          "homeTeam": "Bayer 04 Leverkusen",
+          "awayTeam": "FC Schalke 04",
+          "score": "1:2"
+        },
+        {
+          "date": "2014-02-15",
+          "homeTeam": "Eintracht Braunschweig",
+          "awayTeam": "Hamburger SV",
+          "score": "4:2"
+        },
+        {
+          "date": "2014-02-15",
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "Eintracht Frankfurt",
+          "score": "4:0"
+        },
+        {
+          "date": "2014-02-16",
+          "homeTeam": "Hertha BSC",
+          "awayTeam": "VfL Wolfsburg",
+          "score": "1:2"
+        },
+        {
+          "date": "2014-02-16",
+          "homeTeam": "FC Augsburg",
+          "awayTeam": "1. FC Nürnberg",
+          "score": "0:1"
+        }
+      ]
+    },
+    {
+      "number": "22",
+      "matches": [
+        {
+          "date": "2014-02-21",
+          "homeTeam": "FC Schalke 04",
+          "awayTeam": "1. FSV Mainz 05",
+          "score": "0:0"
+        },
+        {
+          "date": "2014-02-22",
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "Borussia Dortmund",
+          "score": "3:0"
+        },
+        {
+          "date": "2014-02-22",
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "FC Augsburg",
+          "score": "2:4"
+        },
+        {
+          "date": "2014-02-22",
+          "homeTeam": "VfL Wolfsburg",
+          "awayTeam": "Bayer 04 Leverkusen",
+          "score": "3:1"
+        },
+        {
+          "date": "2014-02-22",
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "Hertha BSC",
+          "score": "1:2"
+        },
+        {
+          "date": "2014-02-22",
+          "homeTeam": "1. FC Nürnberg",
+          "awayTeam": "Eintracht Braunschweig",
+          "score": "2:1"
+        },
+        {
+          "date": "2014-02-22",
+          "homeTeam": "Bor. Mönchengladbach",
+          "awayTeam": "TSG 1899 Hoffenheim",
+          "score": "2:2"
+        },
+        {
+          "date": "2014-02-23",
+          "homeTeam": "Hannover 96",
+          "awayTeam": "Bayern München",
+          "score": "0:4"
+        },
+        {
+          "date": "2014-02-23",
+          "homeTeam": "Eintracht Frankfurt",
+          "awayTeam": "Werder Bremen",
+          "score": "0:0"
+        }
+      ]
+    },
+    {
+      "number": "23",
+      "matches": [
+        {
+          "date": "2014-02-28",
+          "homeTeam": "Hertha BSC",
+          "awayTeam": "SC Freiburg",
+          "score": "0:0"
+        },
+        {
+          "date": "2014-03-01",
+          "homeTeam": "Eintracht Braunschweig",
+          "awayTeam": "Bor. Mönchengladbach",
+          "score": "1:1"
+        },
+        {
+          "date": "2014-03-01",
+          "homeTeam": "Bayern München",
+          "awayTeam": "FC Schalke 04",
+          "score": "5:1"
+        },
+        {
+          "date": "2014-03-01",
+          "homeTeam": "Bayer 04 Leverkusen",
+          "awayTeam": "1. FSV Mainz 05",
+          "score": "0:1"
+        },
+        {
+          "date": "2014-03-01",
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "1. FC Nürnberg",
+          "score": "3:0"
+        },
+        {
+          "date": "2014-03-01",
+          "homeTeam": "Werder Bremen",
+          "awayTeam": "Hamburger SV",
+          "score": "1:0"
+        },
+        {
+          "date": "2014-03-01",
+          "homeTeam": "FC Augsburg",
+          "awayTeam": "Hannover 96",
+          "score": "1:1"
+        },
+        {
+          "date": "2014-03-02",
+          "homeTeam": "Eintracht Frankfurt",
+          "awayTeam": "VfB Stuttgart",
+          "score": "2:1"
+        },
+        {
+          "date": "2014-03-02",
+          "homeTeam": "TSG 1899 Hoffenheim",
+          "awayTeam": "VfL Wolfsburg",
+          "score": "6:2"
+        }
+      ]
+    },
+    {
+      "number": "24",
+      "matches": [
+        {
+          "date": "2014-03-08",
+          "homeTeam": "VfL Wolfsburg",
+          "awayTeam": "Bayern München",
+          "score": "1:6"
+        },
+        {
+          "date": "2014-03-08",
+          "homeTeam": "FC Schalke 04",
+          "awayTeam": "TSG 1899 Hoffenheim",
+          "score": "4:0"
+        },
+        {
+          "date": "2014-03-08",
+          "homeTeam": "Hannover 96",
+          "awayTeam": "Bayer 04 Leverkusen",
+          "score": "1:1"
+        },
+        {
+          "date": "2014-03-08",
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "Eintracht Braunschweig",
+          "score": "2:2"
+        },
+        {
+          "date": "2014-03-08",
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "Eintracht Frankfurt",
+          "score": "1:1"
+        },
+        {
+          "date": "2014-03-08",
+          "homeTeam": "Bor. Mönchengladbach",
+          "awayTeam": "FC Augsburg",
+          "score": "1:2"
+        },
+        {
+          "date": "2014-03-08",
+          "homeTeam": "1. FC Nürnberg",
+          "awayTeam": "Werder Bremen",
+          "score": "0:2"
+        },
+        {
+          "date": "2014-03-09",
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "Borussia Dortmund",
+          "score": "0:1"
+        },
+        {
+          "date": "2014-03-09",
+          "homeTeam": "1. FSV Mainz 05",
+          "awayTeam": "Hertha BSC",
+          "score": "1:1"
+        }
+      ]
+    },
+    {
+      "number": "25",
+      "matches": [
+        {
+          "date": "2014-03-14",
+          "homeTeam": "FC Augsburg",
+          "awayTeam": "FC Schalke 04",
+          "score": "1:2"
+        },
+        {
+          "date": "2014-03-15",
+          "homeTeam": "Werder Bremen",
+          "awayTeam": "VfB Stuttgart",
+          "score": "1:1"
+        },
+        {
+          "date": "2014-03-15",
+          "homeTeam": "Bayern München",
+          "awayTeam": "Bayer 04 Leverkusen",
+          "score": "2:1"
+        },
+        {
+          "date": "2014-03-15",
+          "homeTeam": "Eintracht Braunschweig",
+          "awayTeam": "VfL Wolfsburg",
+          "score": "1:1"
+        },
+        {
+          "date": "2014-03-15",
+          "homeTeam": "Hertha BSC",
+          "awayTeam": "Hannover 96",
+          "score": "0:3"
+        },
+        {
+          "date": "2014-03-15",
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "Bor. Mönchengladbach",
+          "score": "1:2"
+        },
+        {
+          "date": "2014-03-15",
+          "homeTeam": "TSG 1899 Hoffenheim",
+          "awayTeam": "1. FSV Mainz 05",
+          "score": "2:4"
+        },
+        {
+          "date": "2014-03-16",
+          "homeTeam": "Eintracht Frankfurt",
+          "awayTeam": "SC Freiburg",
+          "score": "1:4"
+        },
+        {
+          "date": "2014-03-16",
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "1. FC Nürnberg",
+          "score": "2:1"
+        }
+      ]
+    },
+    {
+      "number": "26",
+      "matches": [
+        {
+          "date": "2014-03-21",
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "Werder Bremen",
+          "score": "3:1"
+        },
+        {
+          "date": "2014-03-22",
+          "homeTeam": "Bor. Mönchengladbach",
+          "awayTeam": "Hertha BSC",
+          "score": "3:0"
+        },
+        {
+          "date": "2014-03-22",
+          "homeTeam": "1. FSV Mainz 05",
+          "awayTeam": "Bayern München",
+          "score": "0:2"
+        },
+        {
+          "date": "2014-03-22",
+          "homeTeam": "Hannover 96",
+          "awayTeam": "Borussia Dortmund",
+          "score": "0:3"
+        },
+        {
+          "date": "2014-03-22",
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "Hamburger SV",
+          "score": "1:0"
+        },
+        {
+          "date": "2014-03-22",
+          "homeTeam": "VfL Wolfsburg",
+          "awayTeam": "FC Augsburg",
+          "score": "1:1"
+        },
+        {
+          "date": "2014-03-22",
+          "homeTeam": "FC Schalke 04",
+          "awayTeam": "Eintracht Braunschweig",
+          "score": "3:1"
+        },
+        {
+          "date": "2014-03-23",
+          "homeTeam": "1. FC Nürnberg",
+          "awayTeam": "Eintracht Frankfurt",
+          "score": "2:5"
+        },
+        {
+          "date": "2014-03-23",
+          "homeTeam": "Bayer 04 Leverkusen",
+          "awayTeam": "TSG 1899 Hoffenheim",
+          "score": "2:3"
+        }
+      ]
+    },
+    {
+      "number": "27",
+      "matches": [
+        {
+          "date": "2014-03-25",
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "FC Schalke 04",
+          "score": "0:0"
+        },
+        {
+          "date": "2014-03-25",
+          "homeTeam": "Hertha BSC",
+          "awayTeam": "Bayern München",
+          "score": "1:3"
+        },
+        {
+          "date": "2014-03-25",
+          "homeTeam": "Werder Bremen",
+          "awayTeam": "VfL Wolfsburg",
+          "score": "1:3"
+        },
+        {
+          "date": "2014-03-25",
+          "homeTeam": "Eintracht Braunschweig",
+          "awayTeam": "1. FSV Mainz 05",
+          "score": "3:1"
+        },
+        {
+          "date": "2014-03-26",
+          "homeTeam": "Eintracht Frankfurt",
+          "awayTeam": "Bor. Mönchengladbach",
+          "score": "1:0"
+        },
+        {
+          "date": "2014-03-26",
+          "homeTeam": "TSG 1899 Hoffenheim",
+          "awayTeam": "Hannover 96",
+          "score": "3:1"
+        },
+        {
+          "date": "2014-03-26",
+          "homeTeam": "1. FC Nürnberg",
+          "awayTeam": "VfB Stuttgart",
+          "score": "2:0"
+        },
+        {
+          "date": "2014-03-26",
+          "homeTeam": "FC Augsburg",
+          "awayTeam": "Bayer 04 Leverkusen",
+          "score": "1:3"
+        },
+        {
+          "date": "2014-03-26",
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "SC Freiburg",
+          "score": "1:1"
+        }
+      ]
+    },
+    {
+      "number": "28",
+      "matches": [
+        {
+          "date": "2014-03-28",
+          "homeTeam": "FC Schalke 04",
+          "awayTeam": "Hertha BSC",
+          "score": "2:0"
+        },
+        {
+          "date": "2014-03-29",
+          "homeTeam": "1. FSV Mainz 05",
+          "awayTeam": "FC Augsburg",
+          "score": "3:0"
+        },
+        {
+          "date": "2014-03-29",
+          "homeTeam": "Bayer 04 Leverkusen",
+          "awayTeam": "Eintracht Braunschweig",
+          "score": "1:1"
+        },
+        {
+          "date": "2014-03-29",
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "1. FC Nürnberg",
+          "score": "3:2"
+        },
+        {
+          "date": "2014-03-29",
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "Borussia Dortmund",
+          "score": "2:3"
+        },
+        {
+          "date": "2014-03-29",
+          "homeTeam": "Bayern München",
+          "awayTeam": "TSG 1899 Hoffenheim",
+          "score": "3:3"
+        },
+        {
+          "date": "2014-03-29",
+          "homeTeam": "VfL Wolfsburg",
+          "awayTeam": "Eintracht Frankfurt",
+          "score": "2:1"
+        },
+        {
+          "date": "2014-03-30",
+          "homeTeam": "Hannover 96",
+          "awayTeam": "Werder Bremen",
+          "score": "1:2"
+        },
+        {
+          "date": "2014-03-30",
+          "homeTeam": "Bor. Mönchengladbach",
+          "awayTeam": "Hamburger SV",
+          "score": "3:1"
+        }
+      ]
+    },
+    {
+      "number": "29",
+      "matches": [
+        {
+          "date": "2014-04-04",
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "Bayer 04 Leverkusen",
+          "score": "2:1"
+        },
+        {
+          "date": "2014-04-05",
+          "homeTeam": "FC Augsburg",
+          "awayTeam": "Bayern München",
+          "score": "1:0"
+        },
+        {
+          "date": "2014-04-05",
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "VfL Wolfsburg",
+          "score": "2:1"
+        },
+        {
+          "date": "2014-04-05",
+          "homeTeam": "1. FC Nürnberg",
+          "awayTeam": "Bor. Mönchengladbach",
+          "score": "0:2"
+        },
+        {
+          "date": "2014-04-05",
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "SC Freiburg",
+          "score": "2:0"
+        },
+        {
+          "date": "2014-04-05",
+          "homeTeam": "Werder Bremen",
+          "awayTeam": "FC Schalke 04",
+          "score": "1:1"
+        },
+        {
+          "date": "2014-04-05",
+          "homeTeam": "Eintracht Frankfurt",
+          "awayTeam": "1. FSV Mainz 05",
+          "score": "2:0"
+        },
+        {
+          "date": "2014-04-06",
+          "homeTeam": "Eintracht Braunschweig",
+          "awayTeam": "Hannover 96",
+          "score": "3:0"
+        },
+        {
+          "date": "2014-04-06",
+          "homeTeam": "Hertha BSC",
+          "awayTeam": "TSG 1899 Hoffenheim",
+          "score": "1:1"
+        }
+      ]
+    },
+    {
+      "number": "30",
+      "matches": [
+        {
+          "date": "2014-04-11",
+          "homeTeam": "FC Schalke 04",
+          "awayTeam": "Eintracht Frankfurt",
+          "score": "2:0"
+        },
+        {
+          "date": "2014-04-12",
+          "homeTeam": "VfL Wolfsburg",
+          "awayTeam": "1. FC Nürnberg",
+          "score": "4:1"
+        },
+        {
+          "date": "2014-04-12",
+          "homeTeam": "1. FSV Mainz 05",
+          "awayTeam": "Werder Bremen",
+          "score": "3:0"
+        },
+        {
+          "date": "2014-04-12",
+          "homeTeam": "Bayern München",
+          "awayTeam": "Borussia Dortmund",
+          "score": "0:3"
+        },
+        {
+          "date": "2014-04-12",
+          "homeTeam": "Bor. Mönchengladbach",
+          "awayTeam": "VfB Stuttgart",
+          "score": "1:1"
+        },
+        {
+          "date": "2014-04-12",
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "Eintracht Braunschweig",
+          "score": "2:0"
+        },
+        {
+          "date": "2014-04-12",
+          "homeTeam": "Hannover 96",
+          "awayTeam": "Hamburger SV",
+          "score": "2:1"
+        },
+        {
+          "date": "2014-04-13",
+          "homeTeam": "TSG 1899 Hoffenheim",
+          "awayTeam": "FC Augsburg",
+          "score": "2:0"
+        },
+        {
+          "date": "2014-04-13",
+          "homeTeam": "Bayer 04 Leverkusen",
+          "awayTeam": "Hertha BSC",
+          "score": "2:1"
+        }
+      ]
+    },
+    {
+      "number": "31",
+      "matches": [
+        {
+          "date": "2014-04-17",
+          "homeTeam": "Eintracht Frankfurt",
+          "awayTeam": "Hannover 96",
+          "score": "2:3"
+        },
+        {
+          "date": "2014-04-19",
+          "homeTeam": "FC Augsburg",
+          "awayTeam": "Hertha BSC",
+          "score": "0:0"
+        },
+        {
+          "date": "2014-04-19",
+          "homeTeam": "Eintracht Braunschweig",
+          "awayTeam": "Bayern München",
+          "score": "0:2"
+        },
+        {
+          "date": "2014-04-19",
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "1. FSV Mainz 05",
+          "score": "4:2"
+        },
+        {
+          "date": "2014-04-19",
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "Bor. Mönchengladbach",
+          "score": "4:2"
+        },
+        {
+          "date": "2014-04-19",
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "VfL Wolfsburg",
+          "score": "1:3"
+        },
+        {
+          "date": "2014-04-19",
+          "homeTeam": "Werder Bremen",
+          "awayTeam": "TSG 1899 Hoffenheim",
+          "score": "3:1"
+        },
+        {
+          "date": "2014-04-20",
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "FC Schalke 04",
+          "score": "3:1"
+        },
+        {
+          "date": "2014-04-20",
+          "homeTeam": "1. FC Nürnberg",
+          "awayTeam": "Bayer 04 Leverkusen",
+          "score": "1:4"
+        }
+      ]
+    },
+    {
+      "number": "32",
+      "matches": [
+        {
+          "date": "2014-04-25",
+          "homeTeam": "Hannover 96",
+          "awayTeam": "VfB Stuttgart",
+          "score": "0:0"
+        },
+        {
+          "date": "2014-04-26",
+          "homeTeam": "Bayer 04 Leverkusen",
+          "awayTeam": "Borussia Dortmund",
+          "score": "2:2"
+        },
+        {
+          "date": "2014-04-26",
+          "homeTeam": "VfL Wolfsburg",
+          "awayTeam": "SC Freiburg",
+          "score": "2:2"
+        },
+        {
+          "date": "2014-04-26",
+          "homeTeam": "Hertha BSC",
+          "awayTeam": "Eintracht Braunschweig",
+          "score": "2:0"
+        },
+        {
+          "date": "2014-04-26",
+          "homeTeam": "Bayern München",
+          "awayTeam": "Werder Bremen",
+          "score": "5:2"
+        },
+        {
+          "date": "2014-04-26",
+          "homeTeam": "TSG 1899 Hoffenheim",
+          "awayTeam": "Eintracht Frankfurt",
+          "score": "0:0"
+        },
+        {
+          "date": "2014-04-26",
+          "homeTeam": "1. FSV Mainz 05",
+          "awayTeam": "1. FC Nürnberg",
+          "score": "2:0"
+        },
+        {
+          "date": "2014-04-27",
+          "homeTeam": "FC Augsburg",
+          "awayTeam": "Hamburger SV",
+          "score": "3:1"
+        },
+        {
+          "date": "2014-04-27",
+          "homeTeam": "FC Schalke 04",
+          "awayTeam": "Bor. Mönchengladbach",
+          "score": "0:1"
+        }
+      ]
+    },
+    {
+      "number": "33",
+      "matches": [
+        {
+          "date": "2014-05-03",
+          "homeTeam": "Borussia Dortmund",
+          "awayTeam": "TSG 1899 Hoffenheim",
+          "score": "3:2"
+        },
+        {
+          "date": "2014-05-03",
+          "homeTeam": "Hamburger SV",
+          "awayTeam": "Bayern München",
+          "score": "1:4"
+        },
+        {
+          "date": "2014-05-03",
+          "homeTeam": "Werder Bremen",
+          "awayTeam": "Hertha BSC",
+          "score": "2:0"
+        },
+        {
+          "date": "2014-05-03",
+          "homeTeam": "Eintracht Frankfurt",
+          "awayTeam": "Bayer 04 Leverkusen",
+          "score": "0:2"
+        },
+        {
+          "date": "2014-05-03",
+          "homeTeam": "SC Freiburg",
+          "awayTeam": "FC Schalke 04",
+          "score": "0:2"
+        },
+        {
+          "date": "2014-05-03",
+          "homeTeam": "1. FC Nürnberg",
+          "awayTeam": "Hannover 96",
+          "score": "0:2"
+        },
+        {
+          "date": "2014-05-03",
+          "homeTeam": "Eintracht Braunschweig",
+          "awayTeam": "FC Augsburg",
+          "score": "0:1"
+        },
+        {
+          "date": "2014-05-03",
+          "homeTeam": "VfB Stuttgart",
+          "awayTeam": "VfL Wolfsburg",
+          "score": "1:2"
+        },
+        {
+          "date": "2014-05-03",
+          "homeTeam": "Bor. Mönchengladbach",
+          "awayTeam": "1. FSV Mainz 05",
+          "score": "3:1"
+        }
+      ]
+    },
+    {
+      "number": "34",
+      "matches": [
+        {
+          "date": "2014-05-10",
+          "homeTeam": "Bayer 04 Leverkusen",
+          "awayTeam": "Werder Bremen",
+          "score": "2:1"
+        },
+        {
+          "date": "2014-05-10",
+          "homeTeam": "Hertha BSC",
+          "awayTeam": "Borussia Dortmund",
+          "score": "0:4"
+        },
+        {
+          "date": "2014-05-10",
+          "homeTeam": "Bayern München",
+          "awayTeam": "VfB Stuttgart",
+          "score": "1:0"
+        },
+        {
+          "date": "2014-05-10",
+          "homeTeam": "FC Schalke 04",
+          "awayTeam": "1. FC Nürnberg",
+          "score": "4:1"
+        },
+        {
+          "date": "2014-05-10",
+          "homeTeam": "Hannover 96",
+          "awayTeam": "SC Freiburg",
+          "score": "3:2"
+        },
+        {
+          "date": "2014-05-10",
+          "homeTeam": "FC Augsburg",
+          "awayTeam": "Eintracht Frankfurt",
+          "score": "2:1"
+        },
+        {
+          "date": "2014-05-10",
+          "homeTeam": "VfL Wolfsburg",
+          "awayTeam": "Bor. Mönchengladbach",
+          "score": "3:1"
+        },
+        {
+          "date": "2014-05-10",
+          "homeTeam": "1. FSV Mainz 05",
+          "awayTeam": "Hamburger SV",
+          "score": "3:2"
+        },
+        {
+          "date": "2014-05-10",
+          "homeTeam": "TSG 1899 Hoffenheim",
+          "awayTeam": "Eintracht Braunschweig",
+          "score": "3:1"
+        }
+      ]
+    }
+  ]
+}
